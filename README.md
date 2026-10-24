@@ -1,4 +1,4 @@
-# neural-style-transfer
+# Neural Style Transfer
 A machine learning algorithm that imposes the visual style of one image onto another.
 
 **Neural Style Transfer** is a machine learning technique that blends the contents of one image with the visual style of another.
